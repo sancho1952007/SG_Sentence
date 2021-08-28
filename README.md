@@ -62,4 +62,21 @@ sg_decode('Your Encoded Text Output Here...')
 
 <br><br>
 
+# How to Encode/Decode The Sentence without Any Code?
+## **Just Run :**  
+
+***Linux :***
+```bash
+python3 -m SG_Sentence
+```
+
+<br>
+
+***Windows :***
+```cmd
+python -m SG_Sentence
+```
+
+<br><br>
+
 # **Thank You 😊**
