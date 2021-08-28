@@ -1,4 +1,4 @@
-![logo](logo.png)
+[![logo](logo.png)](https://github.com/sancho1952007/SG_Sentence)
 # What is SG_Sentence?
 <pre>
 It is An Special Encoding/Decoding System That Can Only Be Encoded & Decoded Using This Module!
