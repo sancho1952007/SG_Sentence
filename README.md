@@ -9,7 +9,7 @@ It is An Special Encoding/Decoding System That Can Only Be Encoded & Decoded Usi
 # Can I Get Some Preview?
 ***Encoding :***
 ```python
-SG_Sentence.sg_encode('Hello World!')
+sg_encode('Hello World!')
 ```
 *Output :*
 ```
@@ -20,7 +20,7 @@ SG_Sentence.sg_encode('Hello World!')
 
 ***Decoding :***
 ```python
-SG_Sentence.sg_decode('}{#E#)_@$(@)#U@ &*9#6E {]@%^2! {]@%^2! )(*$0@&$ _-)*($&^ &#*(7*@)(&%*3()*K(!0*#(@%( )(*$0@&$ &&^%$ {]@%^2! **7&@ &*^()#*^)@[}@$&*(%)4!*$()&(!)(0)!*(%&@(*')
+sg_decode('}{#E#)_@$(@)#U@ &*9#6E {]@%^2! {]@%^2! )(*$0@&$ _-)*($&^ &#*(7*@)(&%*3()*K(!0*#(@%( )(*$0@&$ &&^%$ {]@%^2! **7&@ &*^()#*^)@[}@$&*(%)4!*$()&(!)(0)!*(%&@(*')
 ```
 
 *Output :*
